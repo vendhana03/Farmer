@@ -4,13 +4,20 @@ A Flutter app (prototype) for Selling and buying products. Act as an intermediat
 
 # Screenshots
 <div>
-<img src="images/loading.png" alt="phone image" width="200px" />
-<img src="images/login.png" alt="phone image" width="200px" />
-<img src="images/forgotpw.png" alt="phone image" width="200px" />
-<img src="images/home.png" alt="phone image" width="200px" />
-<img src="images/staff_view.png" alt="phone image" width="200px" />
-<img src="images/view.png" alt="phone image" width="200px" />
-<img src="images/mark.png" alt="phone image" width="200px" />
+<img src="images/1.jpg" alt="phone image" width="200px" />
+<img src="images/2.jpg" alt="phone image" width="200px" />
+<img src="images/3.jpg" alt="phone image" width="200px" />
+<img src="images/4.jpg" alt="phone image" width="200px" />
+<img src="images/5.jpg" alt="phone image" width="200px" />
+<img src="images/6.jpg" alt="phone image" width="200px" />
+<img src="images/7.jpg" alt="phone image" width="200px" />
+<img src="images/8.jpg" alt="phone image" width="200px" />
+<img src="images/9.jpg" alt="phone image" width="200px" />
+<img src="images/10.jpg" alt="phone image" width="200px" />
+<img src="images/11.jpg" alt="phone image" width="200px" />
+<img src="images/12.jpg" alt="phone image" width="200px" />
+<img src="images/13.jpg" alt="phone image" width="200px" />
+
 </div>
 
 # Contributions
